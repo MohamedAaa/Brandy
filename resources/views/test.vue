@@ -8,7 +8,7 @@
 export default{
 	data(){
 		return {
-			mName:'mohamed alaa'
+			mName:'Mohamed'
 		}
 	}	
 }
